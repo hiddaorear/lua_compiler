@@ -1,3 +1,7 @@
+.idea/
+main
+main.dSYM
+
 # Prerequisites
 *.d
 
